@@ -1,0 +1,13 @@
+langchain_community 
+tiktoken 
+langchainhub 
+chromadb 
+langchain 
+langgraph 
+tavily-python 
+langchain-mistralai 
+gpt4all 
+bs4 
+langchain-nomic
+pydantic
+pydantic-settings
